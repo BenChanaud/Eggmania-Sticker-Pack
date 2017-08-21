@@ -50,6 +50,7 @@
 				F19FF4661F46CF5F007991B6 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		F19FF4661F46CF5F007991B6 /* Products */ = {
 			isa = PBXGroup;
